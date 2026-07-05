@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0082_000.yaml, hash: 'sha256:9159b9be603b5e99109c1cf205446ed457c6f4c8d712a524e5662ac2d54bd85f'}
-  - {seq: 1, filename: KR6c0082_001.yaml, hash: 'sha256:185e392faa34b0f173006d98a82fbdc85e45e51c4fe935632e613c63fee340f9'}
+  - {seq: 0, filename: KR6c0082_000.yaml, hash: 'sha256:f9e29004474b3d0e5a31371e48f562aa3977230968e2447916b9692dbacd7644'}
+  - {seq: 1, filename: KR6c0082_001.yaml, hash: 'sha256:751451a2f4014796ae0514d79f741c78fdc6db95badc5a3ab01bfcf728bebae1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0082_000.markers.yaml, hash: 'sha256:d6004f0d123cca1e8cc97d2cff694213d921594a5e34b6f677413716ae121e59'}
-  - {seq: 1, role: markers, filename: assets/KR6c0082_001.markers.yaml, hash: 'sha256:f928753229384da11d49ea688c79eda68bc93bc7dddb0277b387846e3b574898'}
+  - {seq: 0, role: markers, filename: assets/KR6c0082_000.markers.yaml, hash: 'sha256:c4dfe8139cfe26f964e60fb29904aaad42d97e83d68c1b5667f1a8b23b7c2d35'}
+  - {seq: 1, role: markers, filename: assets/KR6c0082_001.markers.yaml, hash: 'sha256:b63f596df940ad2e34f9f45f61dc7556572f97e9017463c037b331e969c80a7a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -397,7 +397,4 @@ table_of_contents:
   label: No. 494-C 金剛經註釋䟦
   type: mulu
   level: 1
-hash: sha256:a114cda004872e4abb44a2de852dfdfdd42e114a3ca8845b89b84cd8e5cda3a5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:550ac82548ea70184bfb189f55a1b588b47f573f0a53a9f2ae04d6b941b8ec49
