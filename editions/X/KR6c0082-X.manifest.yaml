@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0082_000-X.yaml, hash: 'sha256:f9e29004474b3d0e5a31371e48f562aa3977230968e2447916b9692dbacd7644'}
+  - {seq: 0, filename: KR6c0082_000-X.yaml, hash: 'sha256:8f2bf4dbd2bd611e118f949f3870deeebc903588ed28fc0cdc339e7c4dca05fd'}
   - {seq: 1, filename: KR6c0082_001-X.yaml, hash: 'sha256:751451a2f4014796ae0514d79f741c78fdc6db95badc5a3ab01bfcf728bebae1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0082_000-X.markers.yaml, hash: 'sha256:afea23db4fb9b3e9651afc041443226ad2fe5a73e577f1711f300ff7102630ed'}
+  - {seq: 0, role: markers, filename: assets/KR6c0082_000-X.markers.yaml, hash: 'sha256:ce4ecced29a584d4bd3b15c4632d84b1c15e518672d3f2611c941ab90f58832a'}
   - {seq: 1, role: markers, filename: assets/KR6c0082_001-X.markers.yaml, hash: 'sha256:7ad87dca9d27322eb52ca03909f58a8d5caa1aac08c906682b89f934ab7d8e2f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0082_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 494-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0082_X_000-mulu-2
     span:
-    - front
+    - body
     - 865
     - 865
   label: No. 494-B 敘
@@ -395,4 +395,4 @@ table_of_contents:
   label: No. 494-C 金剛經註釋䟦
   type: mulu
   level: 1
-hash: sha256:77bcdb3bbb74999f021e5346840f9b887e9d78e848df70d5cf18cc90f620b9b7
+hash: sha256:8fb08506494da9f47a080566e09f0d491156c3a46e0ec71dc7596d8de5933c28
